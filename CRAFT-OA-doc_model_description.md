@@ -1,6 +1,6 @@
 # Documentation model description
 
-*Last version: 2024-11-07*
+*Last version: 2024-11-06*
 
 Index description *(a brief description in 3 or 4 lines of the index, his main characteristics and functioning)*
 
